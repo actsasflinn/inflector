@@ -1,3 +1,5 @@
+require "../spec_helper"
+
 require "../support/inflector_test_cases"
 
 require "../../src/lucky_inflector"
